@@ -1,12 +1,12 @@
 #container{
 display:grid;
 grid-template-columns: 3fr 1fr;/*fr é um flex. */
-grid-template-rows: 20vh 70vh 10vh;/*linhas */
-grid-template-areas: "header header"/*desempenha a mesma função do grid-column-start e o
+grid-template-rows: 13.5% 70vh 10vh;/*linhas */
+grid-template-areas: "header header"
+                     "main aside"   
+                     "footer footer"        
+;   /*desempenha a mesma função do grid-column-start e o
 grid-column-end: */
-                    "main aside"   
-                    "footer footer"        
-;   
 
 
 /*
