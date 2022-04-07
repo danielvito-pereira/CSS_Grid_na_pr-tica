@@ -1,0 +1,8 @@
+footer{
+    background: red;
+    height: 100px;
+    grid-area:footer;
+/*
+    grid-column-start: 1; inicia na linha 1
+    grid-column-end: 3;/*termina na linha 3*/
+}

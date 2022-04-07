@@ -1,0 +1,8 @@
+header {
+   background: yellow;
+   height: 100px; 
+   grid-area: header;
+ /*
+   grid-column-start: 1;inicia na linha 1
+   grid-column-end: 3;/*termina na linha 3*/
+}

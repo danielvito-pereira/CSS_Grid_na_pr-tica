@@ -1,0 +1,8 @@
+main{
+    background: blue;
+   
+    grid-area:main;
+    /*
+   grid-column-start: 1; inicia na linha 1
+   grid-column-end: 2;/*termina na linha 3*/
+}
